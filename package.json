@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Reginaldo-Ferreira/criando-projeto-para-aprendizado-nodejs/issues"
   },
-  "homepage": "https://github.com/Reginaldo-Ferreira/criando-projeto-para-aprendizado-nodejs#readme"
+  "homepage": "https://github.com/Reginaldo-Ferreira/criando-projeto-para-aprendizado-nodejs#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
